@@ -1,5 +1,7 @@
 package org.technothrive.basicjc
 
+
+//Sample code for Simple Text in Jetpack Compose
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
