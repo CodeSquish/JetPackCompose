@@ -38,7 +38,6 @@ fun SimpleText() {
             textAlign = TextAlign.Center,
             fontSize = 18.sp,
             fontWeight = FontWeight.Bold,
-            modifier = Modifier.align(Alignment.Center)
         )
 
         Text(
