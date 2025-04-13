@@ -44,9 +44,11 @@ fun SimpleText() {
         Text(
             text = "Technothrive",
             textAlign = TextAlign.Center,
+            fontSize = 18.sp,
             modifier = Modifier
                 .align(Alignment.BottomCenter)
                 .padding(bottom = 16.dp)
+
         )
     }
 }
